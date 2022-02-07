@@ -1,1 +1,1 @@
-# Mg-full landing clear css:
+# mg-full landing clear css
